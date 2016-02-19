@@ -1,0 +1,31 @@
+body{
+background-image:url('http://www.on-school.com/blog/wp-content/uploads/2015/01/15581-network-cables-1366x768-computer-wallpaper1.jpg');
+color:aqua;
+}
+.block{
+	text-align:center;
+	border:1px,solid,black;
+	padding:30px;
+
+	margin-right:50px;
+	margin-left:50px;
+	margin-top:50px;
+	margin-bottom:50px;
+
+}
+.twitter{
+	color:red;
+	
+
+	
+}
+i[id="git"]
+{ 
+	color:white; 
+	
+
+}
+i[id="face"]
+{
+	color:white;
+}
